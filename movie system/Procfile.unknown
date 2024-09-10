@@ -1,0 +1,1 @@
+web: sh setup.sh && strweamlit run movie.py

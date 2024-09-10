@@ -1,0 +1,5 @@
+[theme]
+base = "dark"
+
+# Custom theme options
+primaryColor = "#ab1b52"
